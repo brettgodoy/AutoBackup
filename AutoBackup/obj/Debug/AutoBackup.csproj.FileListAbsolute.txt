@@ -1,0 +1,5 @@
+c:\users\brett\documents\visual studio 2012\Projects\AutoBackup\AutoBackup\bin\Debug\AutoBackup.exe
+c:\users\brett\documents\visual studio 2012\Projects\AutoBackup\AutoBackup\bin\Debug\AutoBackup.pdb
+c:\users\brett\documents\visual studio 2012\Projects\AutoBackup\AutoBackup\obj\Debug\AutoBackup.csprojResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2012\Projects\AutoBackup\AutoBackup\obj\Debug\AutoBackup.exe
+c:\users\brett\documents\visual studio 2012\Projects\AutoBackup\AutoBackup\obj\Debug\AutoBackup.pdb
